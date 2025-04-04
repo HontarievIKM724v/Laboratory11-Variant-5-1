@@ -18,7 +18,7 @@ int main()
 	cout << "\n \t Variable B: " << B;
 
 	*pA = 'N';
-	cout << "\nChanging the value of variable A through a pointer: \t \nVariable A : " << *pA;
+	cout << "\nChanging the value of variable A through a pointer: \t \nVariable A: " << *pA;
 
 	char temp = *pA;
 	*pA = *pB;
