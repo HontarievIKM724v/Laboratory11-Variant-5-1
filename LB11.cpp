@@ -8,7 +8,7 @@ int main()
 
 	cout << "Enter the value of the character variable A: ";
 	cin >> A;
-	cout << "\n Enter the value of the character variable B: ";
+	cout << "\nEnter the value of the character variable B: ";
 	cin >> B;
 
 	char* pA = &A;
